@@ -14,6 +14,17 @@
 * Generate and copy the corresponding HTML and CSS code for their projects.
 
 
+## Learning Resources
+
+#### 1. [AndreasBM Web Skills](https://andreasbm.github.io/web-skills/)
+![Web Skills](Assets/webskills.png)
+The website "Web Skills" by Andreas Mehlsen provides a visual overview of useful skills for web developers. It serves as a comprehensive guide for both beginners and experienced developers to explore various areas of web development, including:
+
+* **Front-end technologies:** HTML, CSS, JavaScript, web components, and frameworks.
+* **Back-end concepts:** Node.js, databases, and APIs.
+* **Development tools:** Build tools, package managers, linters, and version control.
+* **Cross-cutting concerns:** Accessibility, performance, security, and testing.
+* **Fundamental computer science:** Algorithms and data structures.
 
 ## vsCode Extensions
 
