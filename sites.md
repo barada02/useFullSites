@@ -32,3 +32,7 @@
   * markdown
   * asciidoc
   * restructuredtext
+
+#### 2. [freedraw](https://marketplace.visualstudio.com/items?itemName=ProjectSyntax.freedraw)
+
+![freedraw](Assets/vs_freedraw.png)
