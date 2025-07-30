@@ -36,3 +36,8 @@
 #### 2. [freedraw](https://marketplace.visualstudio.com/items?itemName=ProjectSyntax.freedraw)
 
 ![freedraw](Assets/vs_freedraw.png)
+* How It Works
+  * Installation: Install the FreeDraw extension from the Visual Studio Code marketplace.
+  * Activation: Activate the extension using the command palette (Ctrl+Shift+P) and typing Free Draw.
+  * Drawing: Use your mouse or stylus to draw on the editor. You can change colors, brush sizes, and more from the toolbar.
+  * Saving: Save your drawings as images by clicking the save button in the toolbar.
